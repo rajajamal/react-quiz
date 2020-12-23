@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "question": "What is the Capital of Indonesia ?",
+            "choices": ["Jakarta", "Surabaya", "Bandung", "Banda Aceh"],
+            "answer": "Jakarta"
+        },
+        {
+            "question": "What is the Capital of Malaysia ?",
+            "choices": ["Melacca", "Putra Jaya", "Kuala Lumpur", "Sabah"],
+            "answer": "Kuala Lumpur"
+        },
+        {
+            "question": "What is the Capital of Thailand ?",
+            "choices": ["Chiang Mai", "Bangkok", "Manila", "Pattani"],
+            "answer": "Bangkok"
+        },
+        {
+            "question": "What is the Capital of Singapore ?",
+            "choices": ["Jakarta", "Singapore", "Pulau Pinang", "Banda Aceh"],
+            "answer": "Singapore"
+        },
+        {
+            "question": "What is the Capital of Vietnam ?",
+            "choices": ["Hanoi", "Shanghai", "Filipine", "Beijing"],
+            "answer": "Hanoi"
+        },
+        {
+            "question": "What is the Capital of Brunei Darussalam ?",
+            "choices": ["Serawak", "Bandar Sri Begawan", "Borneo", "Brunei"],
+            "answer": "Bandar Sri Begawan"
+        },
+        {
+            "question": "What is the Capital of Philippines ?",
+            "choices": ["Cebu", "Tokyo", "Bangkok", "Manila"],
+            "answer": "Manila"
+        },
+        {
+            "question": "What is the Capital of Laos ?",
+            "choices": ["Seoul", "Vientiane", "Bandung", "Phnom Penh"],
+            "answer": "Vientiane"
+        },
+        {
+            "question": "What is the Capital of Cambodia ?",
+            "choices": ["Phnom Penh", "Surabaya", "Bandung", "Vientiane"],
+            "answer": "Phnom Penh"
+        },
+        {
+            "question": "What is the Capital of Myanmar ?",
+            "choices": ["Ho Chi Minh City", "Naypyidaw", "Bandung", "Yangon"],
+            "answer": "Naypyidaw"
+        }
+    ]
+}
